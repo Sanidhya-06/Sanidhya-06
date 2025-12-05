@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Sanidhya👋
 
-<!--
-**Sanidhya-06/Sanidhya-06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an engineering student diving into AI and Machine Learning.  
+Most of my projects are me trying to figure things out the hard way, so its can be messy here and there.
 
-Here are some ideas to get you started:
+## What I'm Working On
+- Understanding ML concepts well enough to actually use them
+- Building small projects to get my hands dirty
+- Improving my Python and model-building skills
+- Cleaning up my messy repos 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python, HTML,CSS, JS and ReactJS
+- **AI/ML:** NumPy, Pandas, scikit-learn, neural nets (all basics)
+- **Other Tools:** Git, VS Code
+
+## Current Goals
+- Strengthening core AI/ML understanding  
+- Creating practical, well-organized projects  
+- Improving code quality and documentation habits 
+
+## A Little About Me
+I break things until they work.  
+Trying to get better at consistency… keyword *trying*.
+
+
