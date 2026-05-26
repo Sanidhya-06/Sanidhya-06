@@ -1,26 +1,43 @@
-# Hi, I'm Sanidhya👋
+# Hey, I'm Sanidhya 👋
 
-I'm an engineering student diving into AI and Machine Learning.  
-Most of my projects are me trying to figure things out the hard way, so its can be messy here and there.
+I like building things and I mean that broadly.
 
-## What I'm Working On
-- Understanding ML concepts well enough to actually use them
-- Building small projects to get my hands dirty
-- Improving my Python and model-building skills
-- Cleaning up my messy repos 
+I'm a third-year B.Tech CSE (AI & ML) student at Mumbai University. Over the past year I've realized
+that what excites me most isn't just writing code or designing interfaces (though I genuinely
+enjoy both). It's the thinking that comes before them: Why does this problem exist? Who
+actually experiences it? What's the simplest version that creates real value?
 
-## Skills
-- **Languages:** Python, HTML,CSS, JS and ReactJS
-- **AI/ML:** NumPy, Pandas, scikit-learn, neural nets (all basics)
-- **Other Tools:** Git, VS Code
+That curiosity has taken me through hackathons, ideathons, and pitching competitions —
+exploring technology, product thinking, and problem-solving from different angles. I've
+learned that building isn't just about shipping features. It's about understanding people,
+validating ideas, and turning ambiguity into something useful.
 
-## Current Goals
-- Strengthening core AI/ML understanding  
-- Creating practical, well-organized projects  
-- Improving code quality and documentation habits 
+Most of my repos here are me doing exactly that — figuring things out, sometimes the hard
+way. It can get messy. That's fine.
 
-## A Little About Me
-I break things until they work.  
-Trying to get better at consistency… keyword *trying*.
+---
 
+## what i'm working with
 
+**Languages & Frontend** — Python · HTML · CSS · JavaScript · React.js  
+**App Dev** — Flutter · Firebase · Firestore  
+**Design & Tools** — Figma · Git · VS Code · Notion
+
+---
+
+## what i'm focused on right now
+
+- Building projects that solve something real, however small
+- Exploring product management and the "why" behind what gets built
+
+---
+
+## a few things worth knowing
+
+Consistency is something I'm actively building — not just in my habits, but in my repos too.  
+If something here looks unfinished, it probably is. Check back.
+
+---
+
+*Always open to interesting problems, collaborations, or conversations.*  
+📬 sanidhya354@gmail.com · [LinkedIn](https://www.linkedin.com/in/sanidhyashetty/)
