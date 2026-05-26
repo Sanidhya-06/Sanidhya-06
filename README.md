@@ -40,4 +40,4 @@ If something here looks unfinished, it probably is. Check back.
 ---
 
 *Always open to interesting problems, collaborations, or conversations.*  
-📬 sanidhya354@gmail.com · [LinkedIn](https://www.linkedin.com/in/sanidhyashetty/)
+📬 sanidhya354@gmail.com · [LinkedIn](www.linkedin.com/in/sanidhyashetty)
