@@ -12,8 +12,8 @@ exploring technology, product thinking, and problem-solving from different angle
 learned that building isn't just about shipping features. It's about understanding people,
 validating ideas, and turning ambiguity into something useful.
 
-Most of my repos here are me doing exactly that — figuring things out, sometimes the hard
-way. It can get messy. That's fine.
+Most of my repos here are me doing exactly that - figuring things out, sometimes the hard
+way. It can get messy. 
 
 ---
 
